@@ -1,0 +1,16 @@
+{
+  "name": "@jrbalbin/the-amazing-calculator",
+  "version": "1.0.2",
+  "description": "The most amazing calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazing calculator",
+    "elmer calculator",
+    "best calculator"
+  ],
+  "author": "Elmer Balbin",
+  "license": "ISC"
+}
